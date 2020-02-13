@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverPattern", "ObserverPattern\ObserverPattern.csproj", "{DFB93B18-48E5-4072-8375-044893CA2DB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverPattern.Tests", "ObserverPattern.Tests\ObserverPattern.Tests.csproj", "{CCD1572A-B2FA-4B17-9333-FD14222DAA6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFB93B18-48E5-4072-8375-044893CA2DB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFB93B18-48E5-4072-8375-044893CA2DB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFB93B18-48E5-4072-8375-044893CA2DB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFB93B18-48E5-4072-8375-044893CA2DB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCD1572A-B2FA-4B17-9333-FD14222DAA6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCD1572A-B2FA-4B17-9333-FD14222DAA6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCD1572A-B2FA-4B17-9333-FD14222DAA6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCD1572A-B2FA-4B17-9333-FD14222DAA6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DF12480-5CBC-4D44-B051-AC7620BC2862}
+	EndGlobalSection
+EndGlobal
